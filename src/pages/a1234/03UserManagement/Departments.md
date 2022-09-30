@@ -31,7 +31,7 @@ The Admin Portal has an account type, and this account type can have a departmen
 
 <br />
 
-![Careplus Add Department](/images/CareplusAddDepartment.png "Add Department")
+![Careplus Add Department](images/CareplusAddDepartment.png "Add Department")
 
 <br />
 
@@ -41,7 +41,7 @@ A modal pops up where you can add a unit name.
 - Click **Add Department** to add the department
   <br />
 
-![Careplus Add Department Modal](/images/CareplusAddDepartmentBox.png "Title")
+![Careplus Add Department Modal](images/CareplusAddDepartmentBox.png "Title")
 
 <br />
 
@@ -52,18 +52,18 @@ A modal pops up where you can add a unit name.
 
 <br />
 
-![Careplus Update Delete 1](/images/CareplusUpdateDelete.png " Update and Delete")
+![Careplus Update Delete 1](images/CareplusUpdateDelete.png " Update and Delete")
 
 <br />
 
 - A Modal Pops up to update the department when the update button is clicked. Click on the **Update Department** button to confirm your choice
 
-![Careplus Update Department](/images/CareplusUpdateDepartment.png "Update Department")
+![Careplus Update Department](images/CareplusUpdateDepartment.png "Update Department")
 
 - When the **Delete** button is clicked. Click **Ok** to confirm your choice.
 
 <br />
 
-![Careplus Delete Modal](/images/CareplusDeleteModal2.png "Delete Modal")
+![Careplus Delete Modal](images/CareplusDeleteModal2.png "Delete Modal")
 
 <br />

@@ -31,7 +31,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Enrolle & Dependants List View](/images/CareplusEnrolle&DependentsListView.png "Enrolle & Dependants List View")
+![Careplus Enrolle & Dependants List View](images/CareplusEnrolle&DependentsListView.png "Enrolle & Dependants List View")
 
 <br />
 
@@ -41,7 +41,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Enrolle & Dependents List Add Dependent](/images/CareplusEnrolle&DependentsListAddDependent.png "Enrolle & Dependents List Add Dependent")
+![Careplus Enrolle & Dependents List Add Dependent](images/CareplusEnrolle&DependentsListAddDependent.png "Enrolle & Dependents List Add Dependent")
 
 <br />
 
@@ -53,6 +53,6 @@ to-heading: 6
 
 <br />
 
-![Careplus Enrolle & Dependents List Actions](/images/CareplusEnrolle&DependentsListActions.png "Enrolle & Dependents List Actions")
+![Careplus Enrolle & Dependents List Actions](images/CareplusEnrolle&DependentsListActions.png "Enrolle & Dependents List Actions")
 
 <br />

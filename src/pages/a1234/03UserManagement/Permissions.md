@@ -31,7 +31,7 @@ The Admin Portal has an account type, and this account type can have a permissio
 
 <br />
 
-![Careplus Add Permission](/images/CareplusAddPermission.png "Add Permission")
+![Careplus Add Permission](images/CareplusAddPermission.png "Add Permission")
 
 <br />
 
@@ -41,7 +41,7 @@ A modal pops up where you can type a Permission name and select the account type
 - Click **Add Permission** to add the permission
   <br />
 
-![Careplus Add Permission Modal](/images/CareplusAddPermissionBox.png "Title")
+![Careplus Add Permission Modal](images/CareplusAddPermissionBox.png "Title")
 
 <br />
 
@@ -52,18 +52,18 @@ A modal pops up where you can type a Permission name and select the account type
 
 <br />
 
-![Careplus Edit Delete](/images/CareplusEditDelete.png "Edit and Delete")
+![Careplus Edit Delete](images/CareplusEditDelete.png "Edit and Delete")
 
 <br />
 
 - A Modal Pops up to edit the Permission when the edit button is clicked. Click on the **Update Permission** button to save your changes.
 
-![Careplus Update Permission](/images/CareplusUpdatePermission.png "Update Permission")
+![Careplus Update Permission](images/CareplusUpdatePermission.png "Update Permission")
 
 - When the **Delete** button is clicked. Click **Ok** to confirm your choice.
 
 <br />
 
-![Careplus Delete Modal](/images/CareplusDeleteModal.png "Delete Modal")
+![Careplus Delete Modal](images/CareplusDeleteModal.png "Delete Modal")
 
 <br />

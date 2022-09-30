@@ -29,7 +29,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Add Base Drug Category](/images/CareplusBaseDrugCategory.png "Add Base Drug Category")
+![Careplus Add Base Drug Category](images/CareplusBaseDrugCategory.png "Add Base Drug Category")
 
 <br />
 
@@ -38,7 +38,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Base Drug Category Modal](/images/CareplusBaseDrugCategoryModal.png "Base Drug Category Modal")
+![Careplus Base Drug Category Modal](images/CareplusBaseDrugCategoryModal.png "Base Drug Category Modal")
 
 <br />
 <br />
@@ -49,7 +49,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Base Categoty Edit](/images/CareplusBaseCategotyEdit.png "Base Categoty Edit")
+![Careplus Base Categoty Edit](images/CareplusBaseCategotyEdit.png "Base Categoty Edit")
 
 <br />
 
@@ -57,7 +57,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Base Categoty Edit Modal](/images/CareplusBaseCategotyEditModal.png "Base Categoty Edit Modal")
+![Careplus Base Categoty Edit Modal](images/CareplusBaseCategotyEditModal.png "Base Categoty Edit Modal")
 
 <br />
 <br />
@@ -70,9 +70,9 @@ to-heading: 6
 
 <br />
 
-![Careplus Base Categoty Approve](/images/CareplusBaseCategotyApprove.png "Approve Base Category")
+![Careplus Base Categoty Approve](images/CareplusBaseCategotyApprove.png "Approve Base Category")
 
-![Careplus Approve Base Category Modal](/images/CareplusBaseCategotyApproveModal.png "Approve Base Category Modal")
+![Careplus Approve Base Category Modal](images/CareplusBaseCategotyApproveModal.png "Approve Base Category Modal")
 
 <br />
 <br />
@@ -83,8 +83,8 @@ to-heading: 6
 
 <br />
 
-![Careplus Base Categoty](/images/CareplusBaseCategotyDispprove.png "Dispprove Base Categoty")
+![Careplus Base Categoty](images/CareplusBaseCategotyDispprove.png "Dispprove Base Categoty")
 
-![Careplus Base Categoty Dispprove Modal](/images/CareplusBaseCategotyDispproveModal.png "Dispprove Base Categoty Modal")
+![Careplus Base Categoty Dispprove Modal](images/CareplusBaseCategotyDispproveModal.png "Dispprove Base Categoty Modal")
 
 <br />

@@ -31,7 +31,7 @@ to-heading: 6
 
 <br />
 
-![Careplus All Claims View Batch](/images/CareplusAllClaimsViewBatch.png "All Claims View Batch")
+![Careplus All Claims View Batch](images/CareplusAllClaimsViewBatch.png "All Claims View Batch")
 
 <br />
 
@@ -39,7 +39,7 @@ to-heading: 6
 
 <br />
 
-![Careplus All Claims View Batch View](/images/CareplusAllClaimsViewBatchView.png "All Claims View Batch View")
+![Careplus All Claims View Batch View](images/CareplusAllClaimsViewBatchView.png "All Claims View Batch View")
 
 <br />
 
@@ -47,7 +47,7 @@ to-heading: 6
 
 <br />
 
-![Careplus All Claims View Batch View Employee Info](/images/CareplusAllClaimsViewBatchViewEmployeeInfo.png "All Claims View Batch View Employee Info")
+![Careplus All Claims View Batch View Employee Info](images/CareplusAllClaimsViewBatchViewEmployeeInfo.png "All Claims View Batch View Employee Info")
 
 <br />
 
@@ -55,6 +55,6 @@ to-heading: 6
 
 <br />
 
-![Careplus All Claims View Batch View Benefit and Medical History](/images/CareplusAllClaimsViewBatchViewBenefitandMedicalHistory.png "All Claims View Batch View Benefit and Medical History")
+![Careplus All Claims View Batch View Benefit and Medical History](images/CareplusAllClaimsViewBatchViewBenefitandMedicalHistory.png "All Claims View Batch View Benefit and Medical History")
 
 <br />

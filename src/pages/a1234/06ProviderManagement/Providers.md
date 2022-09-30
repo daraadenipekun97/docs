@@ -31,7 +31,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Add Provider](/images/CareplusAddProvider.png "Add Provider")
+![Careplus Add Provider](images/CareplusAddProvider.png "Add Provider")
 
 <br />
 
@@ -39,7 +39,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Add Provider Modal](/images/CareplusAddProviderModal.png "Add Provider Modal")
+![Careplus Add Provider Modal](images/CareplusAddProviderModal.png "Add Provider Modal")
 
 <br />
 
@@ -51,7 +51,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Provider Search Bar](/images/CareplusProviderSearchBar.png "Provider Search Bar")
+![Careplus Provider Search Bar](images/CareplusProviderSearchBar.png "Provider Search Bar")
 
 <br />
 
@@ -61,7 +61,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Provider View](/images/CareplusProviderView.png "Provider View")
+![Careplus Provider View](images/CareplusProviderView.png "Provider View")
 
 <br />
 
@@ -69,7 +69,7 @@ to-heading: 6
 
 <br />
 
-  ![alt text](/images/ViewPassordLogin.png "Title")
+  ![alt text](images/ViewPassordLogin.png "Title")
 
 <br /> -->
 
@@ -79,7 +79,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Provider Edit](/images/CareplusProviderEdit.png "Provider Edit")
+![Careplus Provider Edit](images/CareplusProviderEdit.png "Provider Edit")
 
 <br />
 
@@ -87,7 +87,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Provider Edit Modal](/images/CareplusProviderEditModal.png "Provider Edit Modal")
+![Careplus Provider Edit Modal](images/CareplusProviderEditModal.png "Provider Edit Modal")
 
 <br />
 
@@ -97,7 +97,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Provider Disapprove](/images/CareplusProviderDisapprove.png "Provider Disapprove")
+![Careplus Provider Disapprove](images/CareplusProviderDisapprove.png "Provider Disapprove")
 
 <br />
 
@@ -107,7 +107,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Provider Tariffs](/images/CareplusProviderTariffs.png "Provider Tariffs")
+![Careplus Provider Tariffs](images/CareplusProviderTariffs.png "Provider Tariffs")
 
 <br />
 
@@ -115,7 +115,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Upload Single Drug Tariff](/images/CareplusUploadSingleDrugTariff.png "Upload Single Drug Tariff")
+![Careplus Upload Single Drug Tariff](images/CareplusUploadSingleDrugTariff.png "Upload Single Drug Tariff")
 
 <br />
 
@@ -123,7 +123,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Upload Single Drug Tariff Modal](/images/CareplusUploadSingleDrugTariffModal.png "Upload Single Drug Tariff Modal")
+![Careplus Upload Single Drug Tariff Modal](images/CareplusUploadSingleDrugTariffModal.png "Upload Single Drug Tariff Modal")
 
 <br />
 
@@ -131,7 +131,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Upload Single Service Tariff](/images/CareplusUploadSingleServiceTariff.png "Upload Single Service Tariff")
+![Careplus Upload Single Service Tariff](images/CareplusUploadSingleServiceTariff.png "Upload Single Service Tariff")
 
 <br />
 
@@ -139,7 +139,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Upload Single Service Tariff Modal](/images/CareplusUploadSingleServiceTariffModal.png "Upload Single Service Tariff Modal")
+![Careplus Upload Single Service Tariff Modal](images/CareplusUploadSingleServiceTariffModal.png "Upload Single Service Tariff Modal")
 
 <br />
 
@@ -147,6 +147,6 @@ to-heading: 6
 
 <br />
 
-![Careplus Provider Specialization](/images/CareplusProviderSpecialization.png "Provider Specialization")
+![Careplus Provider Specialization](images/CareplusProviderSpecialization.png "Provider Specialization")
 
 <br />

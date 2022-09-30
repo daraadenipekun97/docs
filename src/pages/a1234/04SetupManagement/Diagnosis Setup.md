@@ -29,7 +29,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Add Diagnosis](/images/CareplusAddDiagnosisSetup.png "Add Diagnosis")
+![Careplus Add Diagnosis](images/CareplusAddDiagnosisSetup.png "Add Diagnosis")
 
 <br />
 
@@ -37,7 +37,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Add Diagnosis Setup Modal](/images/CareplusAddDiagnosisSetupModal.png "Add Diagnosis Setup Modal")
+![Careplus Add Diagnosis Setup Modal](images/CareplusAddDiagnosisSetupModal.png "Add Diagnosis Setup Modal")
 
 <br />
 
@@ -47,7 +47,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Diagnosis Setup Edit](/images/CareplusDiagnosisSetupEdit.png "Diagnosis Setup Edit")
+![Careplus Diagnosis Setup Edit](images/CareplusDiagnosisSetupEdit.png "Diagnosis Setup Edit")
 
 <br />
 
@@ -55,7 +55,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Diagnosis Setup Edit Modal](/images/CareplusDiagnosisSetupEditModal.png "Diagnosis Setup Edit Modal")
+![Careplus Diagnosis Setup Edit Modal](images/CareplusDiagnosisSetupEditModal.png "Diagnosis Setup Edit Modal")
 
 <br />
 
@@ -65,9 +65,9 @@ to-heading: 6
 
 <br />
 
-![Careplus Diagnosis Setup Approve](/images/CareplusDiagnosisSetupApprove.png "Diagnosis Setup Approve")
+![Careplus Diagnosis Setup Approve](images/CareplusDiagnosisSetupApprove.png "Diagnosis Setup Approve")
 
-![Careplus Diagnosis Setup Approve Modal](/images/CareplusDiagnosisSetupApproveModal.png "Diagnosis Setup Approve Modal")
+![Careplus Diagnosis Setup Approve Modal](images/CareplusDiagnosisSetupApproveModal.png "Diagnosis Setup Approve Modal")
 
 <br />
 
@@ -77,9 +77,9 @@ to-heading: 6
 
 <br />
 
-![Careplus Diagnosis Setup Disapprove](/images/CareplusDiagnosisSetupDisapprove.png "Diagnosis Setup Disapprove")
+![Careplus Diagnosis Setup Disapprove](images/CareplusDiagnosisSetupDisapprove.png "Diagnosis Setup Disapprove")
 
-![Careplus Diagnosis Setup Disapprove Modal](/images/CareplusDiagnosisSetupDisapproveModal.png "Diagnosis Setup Disapprove Modal")
+![Careplus Diagnosis Setup Disapprove Modal](images/CareplusDiagnosisSetupDisapproveModal.png "Diagnosis Setup Disapprove Modal")
 
 <br />
 
@@ -89,7 +89,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Diagnosis Setup Settings](/images/CareplusDiagnosisSetupSettings.png "Diagnosis Setup Settings")
+![Careplus Diagnosis Setup Settings](images/CareplusDiagnosisSetupSettings.png "Diagnosis Setup Settings")
 
 <br />
 
@@ -97,7 +97,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Diagnosis Setup Add Diagnosis Drug](/images/CareplusDiagnosisSetupAddDiagnosisDrug.png "Diagnosis Setup Add Diagnosis Drug")
+![Careplus Diagnosis Setup Add Diagnosis Drug](images/CareplusDiagnosisSetupAddDiagnosisDrug.png "Diagnosis Setup Add Diagnosis Drug")
 
 <br />
 
@@ -105,7 +105,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Diagnosis Setup Add Diagnosis Drug](/images/CareplusDiagnosisSetupAddDiagnosisDrugModal.png "Diagnosis Setup Add Diagnosis Drug")
+![Careplus Diagnosis Setup Add Diagnosis Drug](images/CareplusDiagnosisSetupAddDiagnosisDrugModal.png "Diagnosis Setup Add Diagnosis Drug")
 
 <br />
 
@@ -113,9 +113,9 @@ to-heading: 6
 
 <br />
 
-![Careplus Diagnosis Setup Diagnosis Drug Approve](/images/CareplusDiagnosisSetupDiagnosisDrugApprove.png "Diagnosis Setup Diagnosis Drug Approve")
+![Careplus Diagnosis Setup Diagnosis Drug Approve](images/CareplusDiagnosisSetupDiagnosisDrugApprove.png "Diagnosis Setup Diagnosis Drug Approve")
 
-![Careplus Diagnosis Setup Diagnosis Drug Approve Modal](/images/CareplusDiagnosisSetupDiagnosisDrugApproveModal.png "Diagnosis Setup Diagnosis Drug Approve Modal")
+![Careplus Diagnosis Setup Diagnosis Drug Approve Modal](images/CareplusDiagnosisSetupDiagnosisDrugApproveModal.png "Diagnosis Setup Diagnosis Drug Approve Modal")
 
 <br />
 
@@ -123,9 +123,9 @@ to-heading: 6
 
 <br />
 
-![Careplus Diagnosis Setup Diagnosis Drug Delist](/images/CareplusDiagnosisSetupDiagnosisDrugDelist.png "Diagnosis Setup Diagnosis Drug Delist")
+![Careplus Diagnosis Setup Diagnosis Drug Delist](images/CareplusDiagnosisSetupDiagnosisDrugDelist.png "Diagnosis Setup Diagnosis Drug Delist")
 
-![Careplus Diagnosis Setup Diagnosis Drug Delist Modal](/images/CareplusDiagnosisSetupDiagnosisDrugDelistModal.png "Diagnosis Setup Diagnosis Drug Delist Modal")
+![Careplus Diagnosis Setup Diagnosis Drug Delist Modal](images/CareplusDiagnosisSetupDiagnosisDrugDelistModal.png "Diagnosis Setup Diagnosis Drug Delist Modal")
 
 <br />
 
@@ -133,7 +133,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Diagnosis Setup Add Diagnosis Services](/images/CareplusDiagnosisSetupAddDiagnosisServices.png "Diagnosis Setup DAdd Diagnosis Services")
+![Careplus Diagnosis Setup Add Diagnosis Services](images/CareplusDiagnosisSetupAddDiagnosisServices.png "Diagnosis Setup DAdd Diagnosis Services")
 
 <br />
 
@@ -141,6 +141,6 @@ to-heading: 6
 
 <br />
 
-![Careplus Diagnosis Setup Add Diagnosis Services Modal](/images/CareplusDiagnosisSetupAddDiagnosisServicesModal.png "Diagnosis Setup Add Diagnosis Services Modal")
+![Careplus Diagnosis Setup Add Diagnosis Services Modal](images/CareplusDiagnosisSetupAddDiagnosisServicesModal.png "Diagnosis Setup Add Diagnosis Services Modal")
 
 <br />

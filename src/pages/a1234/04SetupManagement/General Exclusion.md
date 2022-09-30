@@ -29,7 +29,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Add Exclusion](/images/CareplusAddGeneralExclusion.png "Add Exclusion")
+![Careplus Add Exclusion](images/CareplusAddGeneralExclusion.png "Add Exclusion")
 
 <br />
 
@@ -37,7 +37,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Add Exclusion Modal](/images/CareplusAddGeneralExclusionModal.png "Add Exclusion Modal")
+![Careplus Add Exclusion Modal](images/CareplusAddGeneralExclusionModal.png "Add Exclusion Modal")
 
 <br />
 
@@ -47,9 +47,9 @@ to-heading: 6
 
 <br />
 
-![Careplus General Exclusion View](/images/CareplusGeneralExclusionView.png "General Exclusion View")
+![Careplus General Exclusion View](images/CareplusGeneralExclusionView.png "General Exclusion View")
 
-![Careplus General Exclusion View Modal](/images/CareplusGeneralExclusionViewModal.png "General Exclusion View Modal")
+![Careplus General Exclusion View Modal](images/CareplusGeneralExclusionViewModal.png "General Exclusion View Modal")
 
 <br />
 
@@ -59,7 +59,7 @@ to-heading: 6
 
 <br />
 
-![Careplus General Exclusion Edit](/images/CareplusGeneralExclusionEdit.png "General Exclusion Edit")
+![Careplus General Exclusion Edit](images/CareplusGeneralExclusionEdit.png "General Exclusion Edit")
 
 <br />
 
@@ -67,7 +67,7 @@ to-heading: 6
 
 <br />
 
-![Careplus General Exclusion Edit Modal](/images/CareplusGeneralExclusionEditModal.png "General Exclusion Edit Modal")
+![Careplus General Exclusion Edit Modal](images/CareplusGeneralExclusionEditModal.png "General Exclusion Edit Modal")
 
 <br />
 
@@ -77,8 +77,8 @@ to-heading: 6
 
 <br />
 
-![Careplus General Exclusion Delete](/images/CareplusGeneralExclusionDelete.png "General Exclusion Delete")
+![Careplus General Exclusion Delete](images/CareplusGeneralExclusionDelete.png "General Exclusion Delete")
 
-![Careplus General Exclusion Delete Modal](/images/CareplusGeneralExclusionDeleteModal.png "General Exclusion Delete Modal")
+![Careplus General Exclusion Delete Modal](images/CareplusGeneralExclusionDeleteModal.png "General Exclusion Delete Modal")
 
 <br />

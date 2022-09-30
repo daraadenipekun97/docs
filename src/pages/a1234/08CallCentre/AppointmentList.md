@@ -30,19 +30,19 @@ to-heading: 6
 
 <br />
 
-![Careplus Appointment List Approve](/images/CareplusAppointmentListApprove.png "Appointment List Approve")
+![Careplus Appointment List Approve](images/CareplusAppointmentListApprove.png "Appointment List Approve")
 
 - Click on **Disapprove** to delete an appointment
 
 <br />
 
-![Careplus Appointment List Disapprove](/images/CareplusAppointmentListDisapprove.png "Appointment List Disapprove")
+![Careplus Appointment List Disapprove](images/CareplusAppointmentListDisapprove.png "Appointment List Disapprove")
 
 - Click on **Cancel** to cancel an appointment
 
 <br />
 
-![Careplus Appointment List Cancel](/images/CareplusAppointmentListCancel.png "Appointment List Cancel")
+![Careplus Appointment List Cancel](images/CareplusAppointmentListCancel.png "Appointment List Cancel")
 
 <br>
 
@@ -50,7 +50,7 @@ to-heading: 6
 
 <br />
 
-  ![alt text](/images/BankDetailsPlus.png "Title")
+  ![alt text](images/BankDetailsPlus.png "Title")
 
 <br>
 
@@ -58,7 +58,7 @@ to-heading: 6
 
 <br />
 
-  ![alt text](/images/BankDetailsPlus.png "Title")
+  ![alt text](images/BankDetailsPlus.png "Title")
 
 <br>
 
@@ -66,7 +66,7 @@ to-heading: 6
 * Click on **Add bank Details** button to bank details
 <br />
 
-  ![alt text](/images/SucessAcountDetails.png "Title")
+  ![alt text](images/SucessAcountDetails.png "Title")
 
 <br>
 

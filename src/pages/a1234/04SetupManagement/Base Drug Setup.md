@@ -29,7 +29,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Add Base Drug Setup](/images/CareplusAddBaseDrugSetup.png "Add Base Drug Setup")
+![Careplus Add Base Drug Setup](images/CareplusAddBaseDrugSetup.png "Add Base Drug Setup")
 
 <br />
 
@@ -37,7 +37,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Base Drug Setup Modal](/images/CareplusAddBaseDrugSetupModal.png "Base Drug Setup Modal")
+![Careplus Base Drug Setup Modal](images/CareplusAddBaseDrugSetupModal.png "Base Drug Setup Modal")
 
 <br />
 <br />
@@ -48,11 +48,11 @@ to-heading: 6
 
 <br />
 
-![Careplus Base Drug Setup View](/images/CareplusAddBaseDrugSetupView.png "Base Drug Setup View")
+![Careplus Base Drug Setup View](images/CareplusAddBaseDrugSetupView.png "Base Drug Setup View")
 
 <br />
 
-![Careplus Base Drug Setup View Modal](/images/CareplusBaseDrugSetupViewModal.png "Base Drug Setup View Modal")
+![Careplus Base Drug Setup View Modal](images/CareplusBaseDrugSetupViewModal.png "Base Drug Setup View Modal")
 
 <br />
 
@@ -61,9 +61,9 @@ to-heading: 6
 - Click the **Edit** button to edit a drug and select a base drug category and type in the drug name, price, drug description, drug strength and drug unit description, then click the **Update Base Drug** button.
   <br />
 
-![Careplus Base Drug Setup View Modal Edit](/images/CareplusBaseDrugSetupViewModalEdit.png "Base Drug Setup View Modal Edit")
+![Careplus Base Drug Setup View Modal Edit](images/CareplusBaseDrugSetupViewModalEdit.png "Base Drug Setup View Modal Edit")
 
-![Careplus Base Drug Setup View Edit Warning](/images/CareplusBaseDrugSetupViewModalEditModal.png "Base Drug Setup View Edit Warning")
+![Careplus Base Drug Setup View Edit Warning](images/CareplusBaseDrugSetupViewModalEditModal.png "Base Drug Setup View Edit Warning")
 
  <br />
 
@@ -73,9 +73,9 @@ to-heading: 6
 
 <br />
 
-![Careplus Base Drug Setup Restore](/images/CareplusBaseDrugSetupRestore.png "Base Drug Setup Restore")
+![Careplus Base Drug Setup Restore](images/CareplusBaseDrugSetupRestore.png "Base Drug Setup Restore")
 
-![Careplus Base Drug Setup Restore Modal](/images/CareplusBaseDrugSetupRestoreModal.png "Base Drug Setup Restore Modal")
+![Careplus Base Drug Setup Restore Modal](images/CareplusBaseDrugSetupRestoreModal.png "Base Drug Setup Restore Modal")
 
 <br />
 
@@ -85,9 +85,9 @@ to-heading: 6
 
 <br />
 
-![Careplus Base Drug Setup Restore Approve](/images/CareplusBaseDrugSetupApprove.png "Base Drug Setup Restore Approve")
+![Careplus Base Drug Setup Restore Approve](images/CareplusBaseDrugSetupApprove.png "Base Drug Setup Restore Approve")
 
-![Careplus Base Drug Setup Approve Modal](/images/CareplusBaseDrugSetupApproveModal.png "Base Drug Setup Approve Modal")
+![Careplus Base Drug Setup Approve Modal](images/CareplusBaseDrugSetupApproveModal.png "Base Drug Setup Approve Modal")
 
 <br />
 
@@ -97,8 +97,8 @@ to-heading: 6
 
 <br />
 
-![Careplus Base Drug Setup Disapprove](/images/CareplusBaseDrugSetupDisapprove.png "Base Drug Setup Disapprove")
+![Careplus Base Drug Setup Disapprove](images/CareplusBaseDrugSetupDisapprove.png "Base Drug Setup Disapprove")
 
-![Careplus Base Drug Setup Restore Modal](/images/CareplusBaseDrugSetupDisapproveModal.png "Base Drug Setup Restore Modal")
+![Careplus Base Drug Setup Restore Modal](images/CareplusBaseDrugSetupDisapproveModal.png "Base Drug Setup Restore Modal")
 
 <br />

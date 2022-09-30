@@ -29,7 +29,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Add Benefit](/images/CareplusAddBenefit.png "Add Benefit")
+![Careplus Add Benefit](images/CareplusAddBenefit.png "Add Benefit")
 
 <br />
 
@@ -37,7 +37,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Add Benefit Modal](/images/CareplusAddBenefitModal.png "Add Benefit Modal")
+![Careplus Add Benefit Modal](images/CareplusAddBenefitModal.png "Add Benefit Modal")
 
 <br />
 <br />
@@ -46,7 +46,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Benefit Create Categoty](/images/CareplusBenefitCreateCategory.png "Benefit Create Category")
+![Careplus Benefit Create Categoty](images/CareplusBenefitCreateCategory.png "Benefit Create Category")
 
 <br />
 
@@ -54,7 +54,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Benefit Create Categoty Modal](/images/CareplusBenefitCreateCategoryModal.png "Benefit Create Categoty Modal")
+![Careplus Benefit Create Categoty Modal](images/CareplusBenefitCreateCategoryModal.png "Benefit Create Categoty Modal")
 
 <br />
 
@@ -62,9 +62,9 @@ to-heading: 6
 
 <br />
 
-![Careplus Benefit View](/images/CareplusBenefitView.png "Benefit View")
+![Careplus Benefit View](images/CareplusBenefitView.png "Benefit View")
 
-![Careplus Benefit View Modal](/images/CareplusBenefitViewModal.png "Benefit View Modal")
+![Careplus Benefit View Modal](images/CareplusBenefitViewModal.png "Benefit View Modal")
 
 <br />
 
@@ -72,7 +72,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Add Benefit](/images/CareplusBenefitViewModalAddBenefit.png "Add Benefit")
+![Careplus Add Benefit](images/CareplusBenefitViewModalAddBenefit.png "Add Benefit")
 
  <br />
 
@@ -80,21 +80,21 @@ to-heading: 6
 
 <br />
 
-![Careplus Benefit View Modal Add Benefit Modal](/images/CareplusBenefitViewModalAddBenefitModal.png "Benefit View Modal Add Benefit Modal")
+![Careplus Benefit View Modal Add Benefit Modal](images/CareplusBenefitViewModalAddBenefitModal.png "Benefit View Modal Add Benefit Modal")
 
 <br />
 
 - Click on the **View** button to view a Benefit.
 
-![Careplus Benefit View Modal View](/images/CareplusBenefitViewModalView.png "Benefit View Modal View")
+![Careplus Benefit View Modal View](images/CareplusBenefitViewModalView.png "Benefit View Modal View")
 
-![Careplus Benefit View Modal View Modal](/images/CareplusBenefitViewModalViewModal.png "Benefit View Modal View Modal")
+![Careplus Benefit View Modal View Modal](images/CareplusBenefitViewModalViewModal.png "Benefit View Modal View Modal")
 
 <br />
 
 - Select the **Edit** button to update a benefit.
 
-![Careplus Benefit View Modal Edit](/images/CareplusBenefitViewModalEdit.png "Benefit View Modal Edit")
+![Careplus Benefit View Modal Edit](images/CareplusBenefitViewModalEdit.png "Benefit View Modal Edit")
 
 <br />
 
@@ -102,7 +102,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Benefit View Modal Edit Modal](/images/CareplusBenefitViewModalEditModal.png "Benefit View Modal Edit")
+![Careplus Benefit View Modal Edit Modal](images/CareplusBenefitViewModalEditModal.png "Benefit View Modal Edit")
 
 <br />
 
@@ -110,8 +110,8 @@ to-heading: 6
 
 <br />
 
-![Careplus Benefit View Modal Deactivate](/images/CareplusBenefitViewModalDeactivate.png "Benefit View Modal Deactivate")
+![Careplus Benefit View Modal Deactivate](images/CareplusBenefitViewModalDeactivate.png "Benefit View Modal Deactivate")
 
-![Careplus Benefit View Modal Deactivate Modal](/images/CareplusBenefitViewModalDeactivateModal.png "Benefit View Modal Deactivate Modal")
+![Careplus Benefit View Modal Deactivate Modal](images/CareplusBenefitViewModalDeactivateModal.png "Benefit View Modal Deactivate Modal")
 
 <br />

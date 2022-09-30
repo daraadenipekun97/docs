@@ -29,7 +29,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Admin](/images/CareplusAdmin.png "Administrator")
+![Careplus Admin](images/CareplusAdmin.png "Administrator")
 
 <br>
 
@@ -37,7 +37,7 @@ to-heading: 6
 
 <br>
 
-![Careplus Company Tab](/images/CareplusCompanyTab.png "Company Tab")
+![Careplus Company Tab](images/CareplusCompanyTab.png "Company Tab")
 
 <br/>
 
@@ -45,7 +45,7 @@ to-heading: 6
 
 <br>
 
-![CarePlus Provider Tab](/images/CarePlusProviderTab.png "Provider Tab")
+![CarePlus Provider Tab](images/CarePlusProviderTab.png "Provider Tab")
 
 <br />
 
@@ -53,7 +53,7 @@ to-heading: 6
 
 <br>
 
-![Careplus Enrollee Tab](/images/CareplusEnrolleeTab.png "Enrollee Tab")
+![Careplus Enrollee Tab](images/CareplusEnrolleeTab.png "Enrollee Tab")
 
 <br />
 
@@ -62,11 +62,11 @@ to-heading: 6
 
 <br>
 
-![Careplus Audit Trail Filter 1](/images/CareplusAuditTrailFilter1.png "Filter 1")
+![Careplus Audit Trail Filter 1](images/CareplusAuditTrailFilter1.png "Filter 1")
 
 <br>
 
-![Careplus Audit Trail Filter 2](/images/CareplusAuditTrailFilter2.png "Filter 2")
+![Careplus Audit Trail Filter 2](images/CareplusAuditTrailFilter2.png "Filter 2")
 
 <br />
 
@@ -74,7 +74,7 @@ to-heading: 6
 
 <br>
 
-![Careplus Audit Trail View](/images/CareplusAuditTrailView.png "Audit Trail View")
+![Careplus Audit Trail View](images/CareplusAuditTrailView.png "Audit Trail View")
 
 <br />
 
@@ -82,7 +82,7 @@ to-heading: 6
 
 <br>
 
-![alt text](/images/InstructorQuizDetails.png "Title")
+![alt text](images/InstructorQuizDetails.png "Title")
 
 <br />
 
@@ -93,7 +93,7 @@ to-heading: 6
 
 <br>
 
-![alt text](/images/InstructorQuizViewerSettings.png "Title")
+![alt text](images/InstructorQuizViewerSettings.png "Title")
 
 <br />
 
@@ -105,7 +105,7 @@ to-heading: 6
 * Click on **Save Viewer Settings** button to save viewers settings
 <br>
 
-![alt text](/images/InstructorQuizQuestion.png "Title")
+![alt text](images/InstructorQuizQuestion.png "Title")
 
 <br />
 
@@ -114,7 +114,7 @@ to-heading: 6
 * Type in quiz questions on the question text box
 <br>
 
-![alt text](/images/InstructorCorrectAnswer.png "Title")
+![alt text](images/InstructorCorrectAnswer.png "Title")
 
 <br />
 
@@ -125,7 +125,7 @@ to-heading: 6
 
 <br>
 
-![alt text](/images/InstructorQuizOptions.png "Title")
+![alt text](images/InstructorQuizOptions.png "Title")
 
 <br />
 
@@ -136,7 +136,7 @@ to-heading: 6
 
 <br>
 
-![alt text](/images/InstructorAddnewQuestion.png "Title")
+![alt text](images/InstructorAddnewQuestion.png "Title")
 
 <br />
 
@@ -144,7 +144,7 @@ to-heading: 6
 
 <br />
 
-  ![alt text](/images/PublishQuiz.png "Title")
+  ![alt text](images/PublishQuiz.png "Title")
 
 <br />
 
@@ -152,7 +152,7 @@ to-heading: 6
 
 <br />
 
-  ![alt text](/images/PreviewQuiz.png "Title")
+  ![alt text](images/PreviewQuiz.png "Title")
 
 <br />
 
@@ -162,7 +162,7 @@ to-heading: 6
 
 <br />
 
-  ![alt text](/images/ConfirmQuiz.png "Title")
+  ![alt text](images/ConfirmQuiz.png "Title")
 
 <br />
 
@@ -171,7 +171,7 @@ to-heading: 6
 
 <br />
 
-  ![alt text](/images/Quizpublished.png "Title")
+  ![alt text](images/Quizpublished.png "Title")
 
 <br />
 
@@ -190,7 +190,7 @@ to-heading: 6
 
 <br />
 
-  ![alt text](/images/InstructorsQuiz.png "Title")
+  ![alt text](images/InstructorsQuiz.png "Title")
 
 <br />
 
@@ -206,14 +206,14 @@ to-heading: 6
 
 <br />
 
-  ![alt text](/images/InstructorsAssignquiz.png "Title")
+  ![alt text](images/InstructorsAssignquiz.png "Title")
 
 <br />
 
 * Click on the **Quiz(Assessment) list** dropdown to select quiz
 <br />
 
-  ![alt text](/images/InstrcutorAssignedQuiz.png "Title")
+  ![alt text](images/InstrcutorAssignedQuiz.png "Title")
 
 <br />
 
@@ -226,7 +226,7 @@ to-heading: 6
 
 <br />
 
-  ![alt text](/images/AssignQuizDasboard.png "Title")
+  ![alt text](images/AssignQuizDasboard.png "Title")
 
 <br />
 
@@ -243,7 +243,7 @@ to-heading: 6
 
 <br />
 
-  ![alt text](/images/InstructorQuizResult.png "Title")
+  ![alt text](images/InstructorQuizResult.png "Title")
 
 <br />
 
@@ -252,7 +252,7 @@ to-heading: 6
 
 <br />
 
-  ![alt text](/images/QuizResultLearningPath.png "Title")
+  ![alt text](images/QuizResultLearningPath.png "Title")
 
 <br />
 
@@ -260,6 +260,6 @@ to-heading: 6
 
 <br />
 
-  ![alt text](/images/QuizType.png "Title")
+  ![alt text](images/QuizType.png "Title")
 
 <br /> -->

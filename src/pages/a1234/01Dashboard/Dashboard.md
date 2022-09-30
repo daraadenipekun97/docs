@@ -28,11 +28,11 @@ to-heading: 6
 <br />
 
 - The Admin dashboard shows a general statistics of Enrollees, Providers, Companies and Dependents
-- If you hover over the tiles of the active users you can view their full list.
+- If you hover over the tiles of the active users you can view their full list
 
 <br />
 
-![Careplus Dashboard](/images/CareplusDashboard.png "Dashboard")
+![Careplus Dashboard](images/CareplusDashboard.png "Dashboard")
 
 <br />
 
