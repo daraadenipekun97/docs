@@ -31,7 +31,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Enrolle Refund Request](images/FilterEnrolleeRefund.png "Enrolle Refund Request")
+![Careplus Enrolle Refund Request](/docs/images/FilterEnrolleeRefund.png "Enrolle Refund Request")
 
 <br />
 
@@ -43,7 +43,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Enrolle Payment Details](images/CareplusViewEnrolleePaymentDetails.png "Enrolle Payment Details")
+![Careplus Enrolle Payment Details](/docs/images/CareplusViewEnrolleePaymentDetails.png "Enrolle Payment Details")
 
 <br />
 
@@ -51,7 +51,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Enrolle Payment Details popup](images/CareplusViewEnrolleePaymentDetailspopup.png "Enrolle Payment Details")
+![Careplus Enrolle Payment Details popup](/docs/images/CareplusViewEnrolleePaymentDetailspopup.png "Enrolle Payment Details")
 
 <br />
 
@@ -64,7 +64,7 @@ to-heading: 6
 
 <br />
 
-![Careplus approval disapproval](images/CareplusApprovalDisapprovalEnrolleRefund.png "Enrolle refund")
+![Careplus approval disapproval](/docs/images/CareplusApprovalDisapprovalEnrolleRefund.png "Enrolle refund")
 
 <br />
 
@@ -72,7 +72,7 @@ to-heading: 6
 
 <br />
 
-![Careplus approval](images/CareplusApprovalEnrolleRefund.png "Enrolle refund")
+![Careplus approval](/docs/images/CareplusApprovalEnrolleRefund.png "Enrolle refund")
 
 <br />
 
@@ -80,7 +80,7 @@ to-heading: 6
 
 <br />
 
-![Careplus disapproval](images/CareplusDisapprovalEnrolleRefund.png "Enrolle refund")
+![Careplus disapproval](/docs/images/CareplusDisapprovalEnrolleRefund.png "Enrolle refund")
 
 <br />
 

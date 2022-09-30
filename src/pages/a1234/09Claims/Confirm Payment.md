@@ -29,6 +29,6 @@ to-heading: 6
 
 <br />
 
-![Careplus Confirm Payment](images/CareplusConfirmPayment.png "Confirm Payment")
+![Careplus Confirm Payment](/docs/images/CareplusConfirmPayment.png "Confirm Payment")
 
 <br>

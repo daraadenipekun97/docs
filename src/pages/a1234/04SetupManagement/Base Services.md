@@ -29,7 +29,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Add Base Services](images/CareplusAddBaseServices.png "Add Base Services")
+![Careplus Add Base Services](/docs/images/CareplusAddBaseServices.png "Add Base Services")
 
 <br />
 
@@ -37,7 +37,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Base Services Modal](images/CareplusAddBaseServicesModal.png "Base Services Modal")
+![Careplus Base Services Modal](/docs/images/CareplusAddBaseServicesModal.png "Base Services Modal")
 
 <br />
 <br />
@@ -48,11 +48,11 @@ to-heading: 6
 
 <br />
 
-![Careplus Base Services Edit](images/CareplusBaseServicesEdit.png "Base Services View")
+![Careplus Base Services Edit](/docs/images/CareplusBaseServicesEdit.png "Base Services View")
 
 <br />
 
-![Careplus Base Services Edit Modal](images/CareplusBaseServicesEditModal.png "Base Services Edit Modal")
+![Careplus Base Services Edit Modal](/docs/images/CareplusBaseServicesEditModal.png "Base Services Edit Modal")
 
 <br />
 
@@ -61,9 +61,9 @@ to-heading: 6
 - Click the **Disapprove** button to delete a service, and **Ok** to confirm your choice.
   <br />
 
-![Careplus Base Services Disapprove](images/CareplusBaseServicesDisapprove.png "Base Services Disapprove")
+![Careplus Base Services Disapprove](/docs/images/CareplusBaseServicesDisapprove.png "Base Services Disapprove")
 
-![Careplus Base Services Disapprove Modal](images/CareplusBaseServicesDisapproveModal.png "Base Services Disapprove Modal")
+![Careplus Base Services Disapprove Modal](/docs/images/CareplusBaseServicesDisapproveModal.png "Base Services Disapprove Modal")
 
  <br />
 
@@ -73,8 +73,8 @@ to-heading: 6
 
 <br />
 
-![Careplus Base Services Restore](images/CareplusBaseServicesRestore.png "Base Services Restore")
+![Careplus Base Services Restore](/docs/images/CareplusBaseServicesRestore.png "Base Services Restore")
 
-![Careplus Base Services Restore Modal](images/CareplusBaseServicesRestoreModal.png "Base Services Restore Modal")
+![Careplus Base Services Restore Modal](/docs/images/CareplusBaseServicesRestoreModal.png "Base Services Restore Modal")
 
 <br />

@@ -117,7 +117,7 @@ Below are the list of benefits users get from using Careplus system
 
 You can launch the Careplus Admin portal from your browser via this link https://careplusadmin.azurewebsites.net/home. The System solution is built for browser compatibility; you may use any browser, Edge, Chrome, Mozilla, etc.
 
-![login](images/CareplusLoginPage.jpg "Title")
+![login](/docs/images/CareplusLoginPage.jpg "Title")
 
 Click [click on this link](http://careplusportal.azurewebsites.net/home) to direct you to Careplus Portal Login.
 
@@ -132,7 +132,7 @@ Careplus portal handles the Enrollee, provider and company.
 You can launch the Careplus portal from your browser via this link
 <http://careplusportal.azurewebsites.net/home>. The System solution is built for browser compatibility; you may use any of the browser, Edge, Chrome, Mozilla etc.
 
-![Careplus Portal Login Page Image](images/CareplusPortalLoginPage.png "Login Page")
+![Careplus Portal Login Page Image](/docs/images/CareplusPortalLoginPage.png "Login Page")
 
 You can also [click on this link](http://careplusportal.azurewebsites.net/home) to direct you to the Careplus Portal Login Page
 <br />

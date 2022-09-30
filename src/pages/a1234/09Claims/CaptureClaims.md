@@ -31,7 +31,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Add Capture Claims](images/CareplusAddCaptureClaims.png "Add Capture Claims")
+![Careplus Add Capture Claims](/docs/images/CareplusAddCaptureClaims.png "Add Capture Claims")
 
 <br />
 
@@ -41,7 +41,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Add Capture Claims Modal](images/CareplusAddCaptureClaimsModal.png "Add Capture Claims Modal")
+![Careplus Add Capture Claims Modal](/docs/images/CareplusAddCaptureClaimsModal.png "Add Capture Claims Modal")
 
 <br />
 
@@ -53,7 +53,7 @@ to-heading: 6
 
 <br />
 
-![alt text](images/captureClaimModal.png "Title")
+![alt text](/docs/images/captureClaimModal.png "Title")
 
 <br />
 
@@ -63,7 +63,7 @@ to-heading: 6
 
 <br />
 
-![alt text](images/addServiceBtn.png "Title")
+![alt text](/docs/images/addServiceBtn.png "Title")
 
 <br />
 
@@ -71,7 +71,7 @@ to-heading: 6
 
 <br />
 
-![alt text](images/addDrugSave.png "Title")
+![alt text](/docs/images/addDrugSave.png "Title")
 
 <br />
 
@@ -84,7 +84,7 @@ to-heading: 6
 - click on provider filter at the top of the page and search for the provider
   <br />
 
-![alt text](images/searchClaim.png "Title")
+![alt text](/docs/images/searchClaim.png "Title")
 
 <br />
 
@@ -93,6 +93,6 @@ to-heading: 6
 
 <br />
 
-![alt text](images/sendToVetBtn.png "Title")
+![alt text](/docs/images/sendToVetBtn.png "Title")
 
 <br />

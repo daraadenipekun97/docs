@@ -29,19 +29,19 @@ to-heading: 6
 
 - Click on the **Authenticate Enrollee** button to authenticate an enrollee
 
-  ![Careplus Enrollee Verification Monitor Authenticate Enrollee](images/CareplusEnrolleeVerificationMonitorAuthenticateEnrollee2.png "Enrollee Verification Monitor Authenticate Enrollee")
+  ![Careplus Enrollee Verification Monitor Authenticate Enrollee](/docs/images/CareplusEnrolleeVerificationMonitorAuthenticateEnrollee2.png "Enrollee Verification Monitor Authenticate Enrollee")
 
 <br />
 
 - Fill the form and click on **Check enrollee** to check if an enrollee can access care
 
-![Careplus Enrollee Verification Monitor Authenticate Enrollee Modal](images/CareplusEnrolleeVerificationMonitorAuthenticateEnrolleeModal2.png "Enrollee Verification Monitor Authenticate Enrollee Modal")
+![Careplus Enrollee Verification Monitor Authenticate Enrollee Modal](/docs/images/CareplusEnrolleeVerificationMonitorAuthenticateEnrolleeModal2.png "Enrollee Verification Monitor Authenticate Enrollee Modal")
 
 <br />
 
 - On click of **Check enrollee** the verify enrollee dialogue appears
 
-![Careplus Enrollee Verification Monitor Authenticate Enrollee Access Care](images/CareplusEnrolleeVerificationMonitorAuthenticateEnrolleeAccessCare.png "Enrollee Verification Monitor Authenticate Enrollee Modal")
+![Careplus Enrollee Verification Monitor Authenticate Enrollee Access Care](/docs/images/CareplusEnrolleeVerificationMonitorAuthenticateEnrolleeAccessCare.png "Enrollee Verification Monitor Authenticate Enrollee Modal")
 
 <br />
 
@@ -51,14 +51,14 @@ to-heading: 6
 - Click on the **Verification Code** button to send a verification code to an enrollee
   <br />
 
-  ![Careplus Enrollee Authentication approval](images/CareplusApprovalEnrolleeAuthentication.png "Enrollee Verification Monitor Code")
+  ![Careplus Enrollee Authentication approval](/docs/images/CareplusApprovalEnrolleeAuthentication.png "Enrollee Verification Monitor Code")
 
 <br />
 
 - On click of **Approve Enrollee Authentication** button the Approve enrollee authentication dialogue appears 
   <br />
 
-  ![Careplus Enrollee Authentication approval dialogue](images/CareplusApprovalEnrolleeAuthenticationDialogue.png "Enrollee Verification Monitor Code")
+  ![Careplus Enrollee Authentication approval dialogue](/docs/images/CareplusApprovalEnrolleeAuthenticationDialogue.png "Enrollee Verification Monitor Code")
 
 <br />
 
@@ -68,13 +68,13 @@ to-heading: 6
 - Click on the **Disapprove Enrollee Authentication** button to disapprove enrollee authentication 
   <br />
 
-  ![Careplus Enrollee Authentication disapproval ](images/CareplusDisapproveEnrolleeAuthentication.png "Enrollee Verification Monitor Code")
+  ![Careplus Enrollee Authentication disapproval ](/docs/images/CareplusDisapproveEnrolleeAuthentication.png "Enrollee Verification Monitor Code")
 
 <br />
 
 - On click of **Disapprove Enrollee Authentication** button the disapprove enrollee authentication dialogue appears 
   <br />
 
-  ![Careplus Enrollee Authentication disapproval dialogue](images/CareplusDisapprovalEnrolleeAuthenticationDialogue.png "Enrollee Verification Monitor Code")
+  ![Careplus Enrollee Authentication disapproval dialogue](/docs/images/CareplusDisapprovalEnrolleeAuthenticationDialogue.png "Enrollee Verification Monitor Code")
 
 <br />

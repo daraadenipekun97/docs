@@ -29,7 +29,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Add Base Plans](images/CareplusAddBasePlans.png "Add Base Plans")
+![Careplus Add Base Plans](/docs/images/CareplusAddBasePlans.png "Add Base Plans")
 
 <br />
 
@@ -37,7 +37,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Base Plans Modal](images/CareplusAddBasePlansModal.png "Base Plans Modal")
+![Careplus Base Plans Modal](/docs/images/CareplusAddBasePlansModal.png "Base Plans Modal")
 
 <br />
 <br />
@@ -48,11 +48,11 @@ to-heading: 6
 
 <br />
 
-![Careplus Base Plans View](images/CareplusBasePlansView.png "Base Plans View")
+![Careplus Base Plans View](/docs/images/CareplusBasePlansView.png "Base Plans View")
 
 <br />
 
-![Careplus Base Plans View Modal](images/CareplusBasePlansViewModal.png "Base Plans View Modal")
+![Careplus Base Plans View Modal](/docs/images/CareplusBasePlansViewModal.png "Base Plans View Modal")
 
 <br />
 
@@ -62,9 +62,9 @@ to-heading: 6
 
 <br />
 
-![Careplus Base Plans Edit](images/CareplusBasePlansEdit.png "Base Plans Edit")
+![Careplus Base Plans Edit](/docs/images/CareplusBasePlansEdit.png "Base Plans Edit")
 
-![Careplus Base Plans Edit Modal](images/CareplusBasePlansEditModal.png "Base Plans Edit Modal")
+![Careplus Base Plans Edit Modal](/docs/images/CareplusBasePlansEditModal.png "Base Plans Edit Modal")
 
  <br />
 
@@ -74,9 +74,9 @@ to-heading: 6
 
 <br />
 
-![Careplus Base Plans Disapprove](images/CareplusBasePlansDisapprove.png "Base Plans Disapprove")
+![Careplus Base Plans Disapprove](/docs/images/CareplusBasePlansDisapprove.png "Base Plans Disapprove")
 
-![Careplus Base Plans Disapprove Modal](images/CareplusBasePlansDisapproveModal.png "Base Plans Disapprove Modal")
+![Careplus Base Plans Disapprove Modal](/docs/images/CareplusBasePlansDisapproveModal.png "Base Plans Disapprove Modal")
 
 <br />
 
@@ -86,7 +86,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Base Plans Settings](images/CareplusBasePlansSettings.png "Base Plans Settings")
+![Careplus Base Plans Settings](/docs/images/CareplusBasePlansSettings.png "Base Plans Settings")
 
 <br />
 
@@ -94,7 +94,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Add Base Plans Customization Benefit](images/CareplusAddBasePlansCustomizationBenefit.png "Base Plans Customization Benefit")
+![Careplus Add Base Plans Customization Benefit](/docs/images/CareplusAddBasePlansCustomizationBenefit.png "Base Plans Customization Benefit")
 
 <br />
 
@@ -102,7 +102,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Add Base Plans Customization Benefit Modal](images/CareplusAddBasePlansCustomizationBenefitModal.png "Add Base Plans Customization Benefit Modal")
+![Careplus Add Base Plans Customization Benefit Modal](/docs/images/CareplusAddBasePlansCustomizationBenefitModal.png "Add Base Plans Customization Benefit Modal")
 
 <br />
 
@@ -110,9 +110,9 @@ to-heading: 6
 
 <br />
 
-![Careplus Base Plans Customization Benefit View](images/CareplusBasePlansCustomizationBenefitView.png "Base Plans Customization Benefit View")
+![Careplus Base Plans Customization Benefit View](/docs/images/CareplusBasePlansCustomizationBenefitView.png "Base Plans Customization Benefit View")
 
-![Careplus Base Plans Customization Benefit View Modal](images/CareplusBasePlansCustomizationBenefitViewModal.png "Base Plans Customization Benefit View Modal")
+![Careplus Base Plans Customization Benefit View Modal](/docs/images/CareplusBasePlansCustomizationBenefitViewModal.png "Base Plans Customization Benefit View Modal")
 
 <br />
 
@@ -120,7 +120,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Add Base Plans Customization Provider](images/CareplusAddBasePlansCustomizationProviders.png "Add Base Plans Customization Provider")
+![Careplus Add Base Plans Customization Provider](/docs/images/CareplusAddBasePlansCustomizationProviders.png "Add Base Plans Customization Provider")
 
 <br />
 
@@ -128,7 +128,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Add Base Plans Customization Provider Modal](images/CareplusAddBasePlansCustomizationProvidersModal.png "Add Base Plans Customization Provider Modal")
+![Careplus Add Base Plans Customization Provider Modal](/docs/images/CareplusAddBasePlansCustomizationProvidersModal.png "Add Base Plans Customization Provider Modal")
 
 <br />
 
@@ -136,9 +136,9 @@ to-heading: 6
 
 <br />
 
-![Careplus Base Plans Customization Provider Approve](images/CareplusBasePlansCustomizationProvidersApprove.png "Base Plans Customization Provider Approve")
+![Careplus Base Plans Customization Provider Approve](/docs/images/CareplusBasePlansCustomizationProvidersApprove.png "Base Plans Customization Provider Approve")
 
-![Careplus Base Plans Customization Provider Approve Modal](images/CareplusBasePlansCustomizationProvidersApproveModal.png "Base Plans Customization Provider Approve Modal")
+![Careplus Base Plans Customization Provider Approve Modal](/docs/images/CareplusBasePlansCustomizationProvidersApproveModal.png "Base Plans Customization Provider Approve Modal")
 
 <br />
 
@@ -146,8 +146,8 @@ to-heading: 6
 
 <br />
 
-![Careplus Base Plans Customization Provider Disapprove](images/CareplusBasePlansCustomizationProvidersDisapprove.png "Base Plans Customization Provider Disapprove")
+![Careplus Base Plans Customization Provider Disapprove](/docs/images/CareplusBasePlansCustomizationProvidersDisapprove.png "Base Plans Customization Provider Disapprove")
 
-![Careplus Base Plans Customization Provider Disapprove Modal](images/CareplusBasePlansCustomizationProvidersDisapproveModal.png "Base Plans Customization Provider Disapprove Modal")
+![Careplus Base Plans Customization Provider Disapprove Modal](/docs/images/CareplusBasePlansCustomizationProvidersDisapproveModal.png "Base Plans Customization Provider Disapprove Modal")
 
 <br />

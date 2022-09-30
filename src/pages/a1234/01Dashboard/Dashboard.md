@@ -32,7 +32,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Dashboard](images/CareplusDashboard.png "Dashboard")
+![Careplus Dashboard](/docs/images/CareplusDashboard.png "Dashboard")
 
 <br />
 

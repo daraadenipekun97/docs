@@ -31,7 +31,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Staff List View](images/CareplusStaffListView.png "Staff List View")
+![Careplus Staff List View](/docs/images/CareplusStaffListView.png "Staff List View")
 
 <br />
 
@@ -41,7 +41,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Add Company Staff](images/CareplusAddCompanyStaff.png "Add Company Staff")
+![Careplus Add Company Staff](/docs/images/CareplusAddCompanyStaff.png "Add Company Staff")
 
 <br />
 
@@ -53,6 +53,6 @@ to-heading: 6
 
 <br />
 
-![Careplus Staff List Actions](images/CareplusStaffListActions.png "Staff List Actions")
+![Careplus Staff List Actions](/docs/images/CareplusStaffListActions.png "Staff List Actions")
 
 <br />

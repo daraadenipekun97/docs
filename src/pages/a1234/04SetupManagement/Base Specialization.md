@@ -29,7 +29,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Add Specialization](images/CareplusAddBaseSpecialization.png "Add Specialization")
+![Careplus Add Specialization](/docs/images/CareplusAddBaseSpecialization.png "Add Specialization")
 
 <br />
 
@@ -37,7 +37,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Add Specialization Modal](images/CareplusAddBaseSpecializationModal.png "Add Specialization Modal")
+![Careplus Add Specialization Modal](/docs/images/CareplusAddBaseSpecializationModal.png "Add Specialization Modal")
 
 <br />
 
@@ -47,9 +47,9 @@ to-heading: 6
 
 <br />
 
-![Careplus Base Specialization View](images/CareplusBaseSpecializationView.png "Base Specialization View")
+![Careplus Base Specialization View](/docs/images/CareplusBaseSpecializationView.png "Base Specialization View")
 
-![Careplus Base Specialization View Modal](images/CareplusBaseSpecializationViewModal.png "Base Specialization View Modal")
+![Careplus Base Specialization View Modal](/docs/images/CareplusBaseSpecializationViewModal.png "Base Specialization View Modal")
 
 <br />
 
@@ -59,7 +59,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Base Specialization Edit](images/CareplusBaseSpecializationEdit.png "Base Specialization Edit")
+![Careplus Base Specialization Edit](/docs/images/CareplusBaseSpecializationEdit.png "Base Specialization Edit")
 
 <br />
 
@@ -67,7 +67,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Base Specialization Edit Modal](images/CareplusBaseSpecializationEditModal.png "Base Specialization Edit Modal")
+![Careplus Base Specialization Edit Modal](/docs/images/CareplusBaseSpecializationEditModal.png "Base Specialization Edit Modal")
 
 <br />
 
@@ -77,9 +77,9 @@ to-heading: 6
 
 <br />
 
-![Careplus Base Specialization Approve](images/CareplusBaseSpecializationApprove.png "Base Specialization Approve")
+![Careplus Base Specialization Approve](/docs/images/CareplusBaseSpecializationApprove.png "Base Specialization Approve")
 
-![Careplus Base Specialization Approve Modal](images/CareplusBaseSpecializationApproveModal.png "Base Specialization Approve Modal")
+![Careplus Base Specialization Approve Modal](/docs/images/CareplusBaseSpecializationApproveModal.png "Base Specialization Approve Modal")
 
 <br />
 
@@ -89,8 +89,8 @@ to-heading: 6
 
 <br />
 
-![Careplus Base Specialization Disapprove](images/CareplusBaseSpecializationDisapprove.png "Base Specialization Disapprove")
+![Careplus Base Specialization Disapprove](/docs/images/CareplusBaseSpecializationDisapprove.png "Base Specialization Disapprove")
 
-![Careplus Base Specialization Disapprove Modal](images/CareplusBaseSpecializationDisapproveModal.png "Base Specialization Disapprove Modal")
+![Careplus Base Specialization Disapprove Modal](/docs/images/CareplusBaseSpecializationDisapproveModal.png "Base Specialization Disapprove Modal")
 
 <br />

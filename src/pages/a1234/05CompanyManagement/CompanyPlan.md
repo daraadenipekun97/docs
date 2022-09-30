@@ -31,7 +31,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Add Company Plan](images/CareplusAddCompanyPlan.png "Add Company Plan")
+![Careplus Add Company Plan](/docs/images/CareplusAddCompanyPlan.png "Add Company Plan")
 
 <br />
 
@@ -39,7 +39,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Add Company Plan Modal](images/CareplusAddCompanyPlanModal.png "Add Company Plan Modal")
+![Careplus Add Company Plan Modal](/docs/images/CareplusAddCompanyPlanModal.png "Add Company Plan Modal")
 
 <br />
 
@@ -51,7 +51,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Company Plan Plans](images/CareplusCompanyPlanPlans.png "Company Plan Plans")
+![Careplus Company Plan Plans](/docs/images/CareplusCompanyPlanPlans.png "Company Plan Plans")
 
 <br />
 
@@ -59,7 +59,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Company Plan Plans View](images/CareplusCompanyPlanPlansView.png "Company Plan Plans View")
+![Careplus Company Plan Plans View](/docs/images/CareplusCompanyPlanPlansView.png "Company Plan Plans View")
 
 <br />
 
@@ -67,7 +67,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Company Plan Plans Edit](images/CareplusCompanyPlanPlansEdit.png "Company Plan Plans Edit")
+![Careplus Company Plan Plans Edit](/docs/images/CareplusCompanyPlanPlansEdit.png "Company Plan Plans Edit")
 
 <br />
 
@@ -75,7 +75,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Company Plan Plans Edit Modal](images/CareplusCompanyPlanPlansEditModal.png "Company Plan Plans Edit Modal")
+![Careplus Company Plan Plans Edit Modal](/docs/images/CareplusCompanyPlanPlansEditModal.png "Company Plan Plans Edit Modal")
 
 <br />
 
@@ -83,7 +83,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Company Plan Plans Disapporve](images/CareplusCompanyPlanPlansDisapporve.png "Company Plan Plans Disapporve")
+![Careplus Company Plan Plans Disapporve](/docs/images/CareplusCompanyPlanPlansDisapporve.png "Company Plan Plans Disapporve")
 
 <br />
 
@@ -91,7 +91,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Company Plan Plans Settings](images/CareplusCompanyPlanPlansSettings.png "Company Plan Plans Settings")
+![Careplus Company Plan Plans Settings](/docs/images/CareplusCompanyPlanPlansSettings.png "Company Plan Plans Settings")
 
  <br />
 
@@ -100,7 +100,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Company Plan Plans Settings Add Benefit](images/CareplusCompanyPlanPlansSettingsAddBenefit.png "Company Plan Plans Settings Add Benefit")
+![Careplus Company Plan Plans Settings Add Benefit](/docs/images/CareplusCompanyPlanPlansSettingsAddBenefit.png "Company Plan Plans Settings Add Benefit")
 
  <br />
 
@@ -108,7 +108,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Company Plan Plans Settings Add Provider](images/CareplusCompanyPlanPlansSettingsAddProvider.png "Company Plan Plans Settings Add Provider")
+![Careplus Company Plan Plans Settings Add Provider](/docs/images/CareplusCompanyPlanPlansSettingsAddProvider.png "Company Plan Plans Settings Add Provider")
 
  <br />
 
@@ -116,6 +116,6 @@ to-heading: 6
 
 <br />
 
-![Careplus Company Plan Plans Settings Provider Disapprove](images/CareplusCompanyPlanPlansSettingsProviderDisapprove.png "Company Plan Plans Settings Provider Disapprove")
+![Careplus Company Plan Plans Settings Provider Disapprove](/docs/images/CareplusCompanyPlanPlansSettingsProviderDisapprove.png "Company Plan Plans Settings Provider Disapprove")
 
 <br />

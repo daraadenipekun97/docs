@@ -29,7 +29,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Add User](images/CareplusAddUser.png "Add User")
+![Careplus Add User](/docs/images/CareplusAddUser.png "Add User")
 
 <br />
 
@@ -38,7 +38,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Add User Details](images/CareplusAddUserDetails.png "User Details")
+![Careplus Add User Details](/docs/images/CareplusAddUserDetails.png "User Details")
 
 <br />
 
@@ -52,7 +52,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Users View](images/CareplusUsersView.png "Users View")
+![Careplus Users View](/docs/images/CareplusUsersView.png "Users View")
 
  <br />
 
@@ -61,7 +61,7 @@ to-heading: 6
 
 <br />
 
-![Careplus User Edit](images/CareplusUserEdit.png "User Edit")
+![Careplus User Edit](/docs/images/CareplusUserEdit.png "User Edit")
 
  <br />
 
@@ -69,9 +69,9 @@ to-heading: 6
 
 <br />
 
-![Careplus Approve User](images/CareplusApproveUser.png "Approve User")
+![Careplus Approve User](/docs/images/CareplusApproveUser.png "Approve User")
 
-![Careplus Approve User 1](images/CareplusApproveUser1.png "Approve User 1")
+![Careplus Approve User 1](/docs/images/CareplusApproveUser1.png "Approve User 1")
 
  <br />
 
@@ -79,8 +79,8 @@ to-heading: 6
 
 <br />
 
-![Careplus Disapprove User](images/CareplusDisapproveUser.png "User Disapproved")
+![Careplus Disapprove User](/docs/images/CareplusDisapproveUser.png "User Disapproved")
 
-![Careplus Disapprove User 1](images/CareplusDisapproveUser1.png "User Disapproved 1")
+![Careplus Disapprove User 1](/docs/images/CareplusDisapproveUser1.png "User Disapproved 1")
 
  <br />

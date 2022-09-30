@@ -32,7 +32,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Review Claims View](images/CareplusReviewClaimsView.png "Review Claims View")
+![Careplus Review Claims View](/docs/images/CareplusReviewClaimsView.png "Review Claims View")
 
 <br />
 
@@ -42,7 +42,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Review Claims Send To Reviewed](images/CareplusReviewClaimsSendToReviewed.png "Review Claims Send To Reviewed")
+![Careplus Review Claims Send To Reviewed](/docs/images/CareplusReviewClaimsSendToReviewed.png "Review Claims Send To Reviewed")
 
 <br />
 
@@ -50,7 +50,7 @@ to-heading: 6
 
 <br />
 
-  ![alt text](images/viewClaimsModal.png "Title")
+  ![alt text](/docs/images/viewClaimsModal.png "Title")
 
 <br />
 
@@ -59,6 +59,6 @@ to-heading: 6
 
 <br />
 
-  ![alt text](images/sendToVetBtn.png "Title")
+  ![alt text](/docs/images/sendToVetBtn.png "Title")
 
 <br /> -->

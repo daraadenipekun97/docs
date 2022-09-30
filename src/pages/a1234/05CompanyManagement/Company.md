@@ -31,7 +31,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Company View](images/CareplusCompanyView.png "Company View")
+![Careplus Company View](/docs/images/CareplusCompanyView.png "Company View")
 
 <br />
 
@@ -50,7 +50,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Company Edit](images/CareplusCompanyEdit.png "Company Edit")
+![Careplus Company Edit](/docs/images/CareplusCompanyEdit.png "Company Edit")
 
 <br />
 
@@ -58,7 +58,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Company Delist](images/CareplusCompanyDelist.png "Company Delist")
+![Careplus Company Delist](/docs/images/CareplusCompanyDelist.png "Company Delist")
 
 <!-- * Click on **Course info** tab to  display a dropdown
 * Click on **Rate Course** tab to rate course
@@ -80,7 +80,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Company Subsidiary](images/CareplusCompanySubsidiary.png "Company Subsidiary")
+![Careplus Company Subsidiary](/docs/images/CareplusCompanySubsidiary.png "Company Subsidiary")
 
 <br />
 
@@ -88,7 +88,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Company Subsidiary Add Subsidiary](images/CareplusCompanySubsidiaryAddSubsidiary.png "Company Subsidiary Add Subsidiary")
+![Careplus Company Subsidiary Add Subsidiary](/docs/images/CareplusCompanySubsidiaryAddSubsidiary.png "Company Subsidiary Add Subsidiary")
 
 <br />
 
@@ -96,7 +96,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Company Subsidiary Edit](images/CareplusCompanySubsidiaryEdit.png "Company Subsidiary Edit")
+![Careplus Company Subsidiary Edit](/docs/images/CareplusCompanySubsidiaryEdit.png "Company Subsidiary Edit")
 
 <br />
 
@@ -104,7 +104,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Company Subsidiary Approve](images/CareplusCompanySubsidiaryApprove.png "Company Subsidiary Approve")
+![Careplus Company Subsidiary Approve](/docs/images/CareplusCompanySubsidiaryApprove.png "Company Subsidiary Approve")
 
 <br />
 
@@ -112,14 +112,14 @@ to-heading: 6
 
 <br />
 
-![Careplus Company Subsidiary Disapprove](images/CareplusCompanySubsidiaryDisapprove.png "Company Subsidiary Disapprove")
+![Careplus Company Subsidiary Disapprove](/docs/images/CareplusCompanySubsidiaryDisapprove.png "Company Subsidiary Disapprove")
 
 <br />
 
 <!-- * Click on **Pay Now** button to direct you to input your card details
 
 
-![alt text](images/PaymentSuccessful.png "Title")
+![alt text](/docs/images/PaymentSuccessful.png "Title")
 <br />
 
 * Click on the **Back To Dashboard** button to take you back to student dashboard
@@ -128,7 +128,7 @@ to-heading: 6
 
 <br />
 
-  ![alt text](images/AccountingContent.png "Title")
+  ![alt text](/docs/images/AccountingContent.png "Title")
 
 <br />
 
@@ -136,7 +136,7 @@ to-heading: 6
 * Click on **Course info** tab to  display a dropdown
 <br />
 
-  ![alt text](images/RateCourse.png "Title")
+  ![alt text](/docs/images/RateCourse.png "Title")
   <br />
 * Click on **Rate Course** tab to rate course
 * Type in your comment on the comment box
@@ -145,12 +145,12 @@ to-heading: 6
 <br />
 
 
-  ![alt text](images/ShareCourse.png "Title")
+  ![alt text](/docs/images/ShareCourse.png "Title")
 
 * Click on **Share Course** button to share course via social media
 <br />
 
-  ![alt text](images/BacktoDashboard.png "Title")
+  ![alt text](/docs/images/BacktoDashboard.png "Title")
   <br />
 
 * Click on the **Tutor** tab to view instrutor's information
@@ -169,14 +169,14 @@ to-heading: 6
 
 <br />
 
-![Careplus Add Company](images/CareplusAddCompany.png "Add Company")
+![Careplus Add Company](/docs/images/CareplusAddCompany.png "Add Company")
 <br />
 
 - Fill in company details and click the **Add Company** button to add the company
 
 <br />
 
-![Careplus Add Company Modal](images/CareplusAddCompanyModal.png "Add Company Modal")
+![Careplus Add Company Modal](/docs/images/CareplusAddCompanyModal.png "Add Company Modal")
 <br />
 
 <!-- * Click on **Go to Course** button to direct you to the course you want to learn

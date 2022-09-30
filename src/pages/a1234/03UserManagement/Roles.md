@@ -33,7 +33,7 @@ to-heading: 6
 
 <br />
 
-![Careplius Add Role Button](images/CareplusAddRoleButton.png "Add Role Button")
+![Careplius Add Role Button](/docs/images/CareplusAddRoleButton.png "Add Role Button")
 
 <br />
 
@@ -44,7 +44,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Add Roles Modal](images/CareplusAddRolesModal.png "Add Roles Modal")
+![Careplus Add Roles Modal](/docs/images/CareplusAddRolesModal.png "Add Roles Modal")
 
 <br />
 
@@ -54,7 +54,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Edit Roles](images/CareplusEditRoles.png "Edit Roles")
+![Careplus Edit Roles](/docs/images/CareplusEditRoles.png "Edit Roles")
 
 <br />
 
@@ -62,7 +62,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Edit Roles Modal](images/CareplusEditRolesModal.png "Edit Roles Modal")
+![Careplus Edit Roles Modal](/docs/images/CareplusEditRolesModal.png "Edit Roles Modal")
 
 <br />
 
@@ -70,7 +70,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Admin Permissions](images/CareplusAdminPermissions.png "Admin Permissions")
+![Careplus Admin Permissions](/docs/images/CareplusAdminPermissions.png "Admin Permissions")
 
 <br />
 
@@ -78,6 +78,6 @@ to-heading: 6
 
 <br />
 
-![Careplus Permitted Pages Modal](images/CareplusPermittedPagesModal.png "Permitted Pages Modal")
+![Careplus Permitted Pages Modal](/docs/images/CareplusPermittedPagesModal.png "Permitted Pages Modal")
 
 <br />

@@ -29,7 +29,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Create New Payment Batch](images/CareplusCreateNewPaymentBatch.png "Create New Payment Batch")
+![Careplus Create New Payment Batch](/docs/images/CareplusCreateNewPaymentBatch.png "Create New Payment Batch")
 
 <br>
 
@@ -39,7 +39,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Create New Payment Batch Modal](images/CareplusCreateNewPaymentBatchModal.png "Create New Payment Batch Modal")
+![Careplus Create New Payment Batch Modal](/docs/images/CareplusCreateNewPaymentBatchModal.png "Create New Payment Batch Modal")
 
 <br>
 
@@ -48,7 +48,7 @@ to-heading: 6
 
 <br>
 
-![alt text](images/savePaymentBatch.png "Title")
+![alt text](/docs/images/savePaymentBatch.png "Title")
 
 ## Search for Payment Batch
 
@@ -56,7 +56,7 @@ to-heading: 6
 
 <br>
 
-![Careplus Payment Batch Search](images/CareplusPaymentBatchSearch.png "Payment Batch Search")
+![Careplus Payment Batch Search](/docs/images/CareplusPaymentBatchSearch.png "Payment Batch Search")
 
 <br />
 
@@ -67,7 +67,7 @@ to-heading: 6
 
 <br>
 
-![Careplus Payment Batch View](images/CareplusPaymentBatchView.png "Payment Batch View")
+![Careplus Payment Batch View](/docs/images/CareplusPaymentBatchView.png "Payment Batch View")
 
 <br />
 
@@ -75,7 +75,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Payment Batch View View](images/CareplusPaymentBatchViewView.png "Payment Batch View View")
+![Careplus Payment Batch View View](/docs/images/CareplusPaymentBatchViewView.png "Payment Batch View View")
 
 <br />
 
@@ -84,7 +84,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Payment Batch View View View](images/CareplusPaymentBatchViewViewView.png "Payment Batch View View View")
+![Careplus Payment Batch View View View](/docs/images/CareplusPaymentBatchViewViewView.png "Payment Batch View View View")
 
 <br />
 
@@ -92,7 +92,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Payment Batch View View Remove](images/CareplusPaymentBatchViewViewRemove.png "Payment Batch View View Remove")
+![Careplus Payment Batch View View Remove](/docs/images/CareplusPaymentBatchViewViewRemove.png "Payment Batch View View Remove")
 
 <br />
 
@@ -100,7 +100,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Payment Batch View Add Bills to Batch](images/CareplusPaymentBatchViewAddBillstoBatch.png "Payment Batch View Add Bills to Batch")
+![Careplus Payment Batch View Add Bills to Batch](/docs/images/CareplusPaymentBatchViewAddBillstoBatch.png "Payment Batch View Add Bills to Batch")
 
 <br />
 
@@ -108,7 +108,7 @@ to-heading: 6
 
 <br>
 
-![Careplus Payment Batch View Print Memo](images/CareplusPaymentBatchViewPrintMemo.png "Payment Batch View Print Memo")
+![Careplus Payment Batch View Print Memo](/docs/images/CareplusPaymentBatchViewPrintMemo.png "Payment Batch View Print Memo")
 
 <br />
 
@@ -116,7 +116,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Payment Batch View Remove Bills](images/CareplusPaymentBatchViewRemoveBills.png "Payment Batch View Remove Bills")
+![Careplus Payment Batch View Remove Bills](/docs/images/CareplusPaymentBatchViewRemoveBills.png "Payment Batch View Remove Bills")
 
 <br />
 
@@ -124,7 +124,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Payment Batch View Remove](images/CareplusPaymentBatchViewRemove.png "Payment Batch View Remove")
+![Careplus Payment Batch View Remove](/docs/images/CareplusPaymentBatchViewRemove.png "Payment Batch View Remove")
 
 <br />
 
@@ -134,11 +134,11 @@ to-heading: 6
 
 <br />
 
-![Careplus Payment Batch Disapprove](images/CareplusPaymentBatchDisapprove.png "Payment Batch Disapprove")
+![Careplus Payment Batch Disapprove](/docs/images/CareplusPaymentBatchDisapprove.png "Payment Batch Disapprove")
 
 <br />
 
-<!-- ![alt text](images/CPCourseSettings.png "Title")
+<!-- ![alt text](/docs/images/CPCourseSettings.png "Title")
 
 <br />
 
@@ -150,7 +150,7 @@ to-heading: 6
 
 <br>
 
-![alt text](images/CpCreateCourse.png "Title")
+![alt text](/docs/images/CpCreateCourse.png "Title")
 
 <br />
 
@@ -161,7 +161,7 @@ to-heading: 6
 - Click on the arrow to release dropdown
   <br>
 
-![alt text](images/CPAddContent.png "Title")
+![alt text](/docs/images/CPAddContent.png "Title")
 
 <br />
 
@@ -169,7 +169,7 @@ to-heading: 6
 
 <br>
 
-![alt text](images/ChemistryVideo.png "Title")
+![alt text](/docs/images/ChemistryVideo.png "Title")
 
 <br />
 
@@ -181,7 +181,7 @@ to-heading: 6
 
 <br />
 
-![alt text](images/CpPublishCourse.png "Title")
+![alt text](/docs/images/CpPublishCourse.png "Title")
 
 <br />
 
@@ -190,7 +190,7 @@ to-heading: 6
 
 <br />
 
-![alt text](images/ConfirmPublished.png "Title")
+![alt text](/docs/images/ConfirmPublished.png "Title")
 
 <br />
 
@@ -207,7 +207,7 @@ to-heading: 6
 
 <br />
 
-![alt text](images/CPpublishedContent.png "Title")
+![alt text](/docs/images/CPpublishedContent.png "Title")
 
 <br />
 
@@ -215,7 +215,7 @@ to-heading: 6
 
 <br />
 
-![alt text](images/CPCourse.png "Title")
+![alt text](/docs/images/CPCourse.png "Title")
 
 <br />
  -->

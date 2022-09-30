@@ -29,7 +29,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Add Benefit Category](images/CareplusAddBenefitCategory.png "Add Benefit Category")
+![Careplus Add Benefit Category](/docs/images/CareplusAddBenefitCategory.png "Add Benefit Category")
 
 <br />
 
@@ -37,7 +37,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Add Benefit Category Modal](images/CareplusAddBenefitCategoryModal.png "Add Benefit Category Modal")
+![Careplus Add Benefit Category Modal](/docs/images/CareplusAddBenefitCategoryModal.png "Add Benefit Category Modal")
 
 <br />
 <br />
@@ -48,9 +48,9 @@ to-heading: 6
 
 <br />
 
-![Careplus Benefit Category View](images/CareplusBenefitCategoryView.png "Benefit Category View")
+![Careplus Benefit Category View](/docs/images/CareplusBenefitCategoryView.png "Benefit Category View")
 
-![Careplus Benefit Category View Modal](images/CareplusBenefitCategoryViewModal.png "Benefit Category View Modal")
+![Careplus Benefit Category View Modal](/docs/images/CareplusBenefitCategoryViewModal.png "Benefit Category View Modal")
 
 <br />
 
@@ -60,7 +60,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Benefit Category Edit](images/CareplusBenefitCategoryEdit.png "Benefit Category Edit")
+![Careplus Benefit Category Edit](/docs/images/CareplusBenefitCategoryEdit.png "Benefit Category Edit")
 
 <br />
 
@@ -68,7 +68,7 @@ to-heading: 6
 
 <br />
 
-![Careplus Benefit Category Edit Modal](images/CareplusBenefitCategoryEditModal.png "Benefit Category Edit Modal")
+![Careplus Benefit Category Edit Modal](/docs/images/CareplusBenefitCategoryEditModal.png "Benefit Category Edit Modal")
 
  <br />
 
@@ -78,8 +78,8 @@ to-heading: 6
 
 <br />
 
-![Careplus Benefit Category Deactivate](images/CareplusBenefitCategoryDeactivate.png "Benefit Category Deactivate")
+![Careplus Benefit Category Deactivate](/docs/images/CareplusBenefitCategoryDeactivate.png "Benefit Category Deactivate")
 
-![Careplus Benefit Category Deactivate Modal](images/CareplusBenefitCategoryDeactivateModal.png "Benefit Category Deactivate Modal")
+![Careplus Benefit Category Deactivate Modal](/docs/images/CareplusBenefitCategoryDeactivateModal.png "Benefit Category Deactivate Modal")
 
 <br />

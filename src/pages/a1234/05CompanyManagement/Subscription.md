@@ -31,14 +31,14 @@ to-heading: 6
 
 <br />
 
-![Careplus Add Subscription](images/CareplusAddSubscription.png "Add Subscription")
+![Careplus Add Subscription](/docs/images/CareplusAddSubscription.png "Add Subscription")
 <br />
 
 - Fill in the add subscription form modal and click **Add Subscription**.
 
 <br />
 
-![Careplus Add Subscription Modal](images/CareplusAddSubscriptionModal.png "Add Subscription Modal")
+![Careplus Add Subscription Modal](/docs/images/CareplusAddSubscriptionModal.png "Add Subscription Modal")
 <br />
 
 ## How to use your subscription actions
@@ -49,6 +49,6 @@ to-heading: 6
 
  <br />
 
-![Careplus Subscription Actions](images/CareplusSubscriptionActions.png "Subscription Actions")
+![Careplus Subscription Actions](/docs/images/CareplusSubscriptionActions.png "Subscription Actions")
 
 <br />
