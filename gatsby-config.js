@@ -5,6 +5,7 @@
  */
 
 module.exports = {
+  pathPrefix:"/docs",
   siteMetadata: {
     title: `CARE PLUS`,
     appModules: ["a1234", "p0987", "c3478", "e4985", "m2456"],
